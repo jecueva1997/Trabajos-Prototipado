@@ -1,7 +1,5 @@
 package funcion;
 
-import java.util.Random;
-
 public class Clase1 {
     public static void main(String[] args) {
 
